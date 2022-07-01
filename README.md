@@ -19,3 +19,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas in sem vehicul
 Pululu, lululu
 *Da ! Da ! Da!*
 >>>>>>> 994922ad071aee9d1f02c1a3d53844e0877bb6ce
+
+=======
+
+## Hang Fire.
+An oil lamp burning at his home’s doorway.
+It can’t be seen from him.
+It has gone [tarnished](https://medium.com/3-lines-story/hang-fire-fe4868364805) in the city’s dazzle.
+
+======
