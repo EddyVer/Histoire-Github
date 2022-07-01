@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Les joies de github
-
 =======
 
 # Les joies de github
