@@ -36,3 +36,5 @@ It has gone [tarnished](https://medium.com/3-lines-story/hang-fire-fe4868364805)
 
 ======
 >>>>>>> dev
+
+le correction on peut-être evetuellement été fait libre a celui qui veut de verifier 
