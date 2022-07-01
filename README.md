@@ -1,6 +1,6 @@
 # Les joies de github
  
- __les premières idée-- 
+ __les premières idée__
  
 **la deuxiéme idée**
 
